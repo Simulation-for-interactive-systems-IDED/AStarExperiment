@@ -40,5 +40,5 @@ seeker.transform.position = seeker.GetComponent<Pathfinding2D>().GridOwner.GetCo
 - After `FindPath()` has been run once, Scene View should show Cube Gizmos of different colors. White/Grey are passable Nodes, Red are impassable, and Black is the path the seeker will take to reach the target, assuming a path exists.
 - The default setting is to only allow movement in the 4 cardinal directions. If you would like to enable diagonal motion as well, simply uncomment out that portion of text in Grid2D.cs.
 
-## Romualdo
-Original [repo here](https://github.com/pixelfac/2D-Astar-Pathfinding-in-Unity)
+## Original repo:
+You can check the original [repo here](https://github.com/pixelfac/2D-Astar-Pathfinding-in-Unity)
